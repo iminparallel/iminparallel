@@ -3,7 +3,7 @@
 - I’m currently working on integrating a smartcontract to make my betting app payable and fun
 - I am good at abstracting from old codes
 - I can write in Progress ABL, Python, and Javascript
-- I am good ad RDBMS
+- I am good at RDBMS
 - I am good at problem solving, and adapting to new frameworks
 - I also know HTML, and CSS (arguably)
 
