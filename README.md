@@ -1,6 +1,6 @@
 ## Harit Chowdhury 👋
 
-- I’m currently working on integrating a smartcontract to make my betting app payable and fun
+- I’m currently working on integration of smartcontract to make my betting app payable and fun, and an Open AI wrapper that lets users quiz themselves
 - I am good at abstracting from old codes
 - I can write in Progress ABL, Python, and Javascript
 - I am good at RDBMS
