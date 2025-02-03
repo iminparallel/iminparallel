@@ -1,11 +1,10 @@
 ## Harit Chowdhury 👋
 
 
-- I am good at abstracting from old codes
+- I am good at abstracting from old codesbases
 - I can write in Progress ABL, Python, and Javascript
 - I am good at RDBMS
 - I am good at problem solving, and adapting to new frameworks
-- I also know HTML, and CSS (arguably)
 
 
 <!--
